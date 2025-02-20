@@ -4,10 +4,10 @@ export default function IDVerificationPage() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>ID Verification</CardTitle>
+        <CardTitle>ID Verifikácia</CardTitle>
       </CardHeader>
       <CardContent>
-        <p>ID verification functionality will be implemented here.</p>
+        <p>Funkcionalita verifikácie ID bude implementovaná tu.</p>
       </CardContent>
     </Card>
   )
