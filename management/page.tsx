@@ -4,10 +4,10 @@ export default function ManagementPage() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Management</CardTitle>
+        <CardTitle>Manažment</CardTitle>
       </CardHeader>
       <CardContent>
-        <p>System management tools will be implemented here.</p>
+        <p>Nástroje pre správu systému budú implementované tu.</p>
       </CardContent>
     </Card>
   )
