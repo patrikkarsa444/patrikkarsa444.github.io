@@ -4,10 +4,10 @@ export default function CustomerRankPage() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Customer Rank</CardTitle>
+        <CardTitle>Hodnotenie zákazníkov</CardTitle>
       </CardHeader>
       <CardContent>
-        <p>Customer ranking system will be implemented here.</p>
+        <p>Systém hodnotenia zákazníkov bude implementovaný tu.</p>
       </CardContent>
     </Card>
   )
